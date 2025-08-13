@@ -1,73 +1,45 @@
-# Portfolio 
+# 🌏 Karma T – UI/UX Designer & Frontend Developer  
 
-## 🛠️ Technologies Used
+Hi there! 👋 I’m Karma — a designer/developer from the mountains of Bhutan.  
+I blend **clean design** with **clean code** to craft experiences that feel as good as they look.  
+From responsive websites to real-time dashboards, I love building things people actually *enjoy* using.  
 
-- HTML5
-- Tailwind CSS
-- JavaScript
-- Three.js
-- GSAP (GreenSock Animation Platform)
-- Font Awesome Icons
+---
 
-## 📋 Sections
+## 🛠 Skills & Tools  
+**Design:** Figma, Lovable  
+**Frontend:** HTML, CSS, JavaScript, React.js  
+**Backend:** Node.js, Express.js  
+**Other:** MongoDB, Docker, AWS, Git, Jenkins  
 
-- Dynamic Hero Section
-- Featured Projects
-- Services
-- Technologies/Skills
-- Journey/Timeline
-- Testimonials
-- Contact Form
-- Footer
+---
 
-```
+## 🚀 Featured Projects  
 
-## 📁 Project Structure
+### [Threat Intelligence Dashboard](https://github.com/Kanishak-xd/threat-intel)  
+Real-time cyber threat monitoring platform with live attack visualization and automated CI/CD pipeline.  
+*Tech:* React.js, Chart.js, Node.js, MongoDB Atlas, AWS EC2, Docker, Jenkins, Cowrie Honeypot  
 
-```
-3D-Portfolio/
-├── index.html
-├── style.css
-├── main.js
-```
+### [Chainsaw Man Fanpage](https://github.com/ktyangden/chainsawman-fanpage)  
+A dynamic, responsive fan website celebrating the Chainsaw Man universe.  
+*Tech:* Lovable, HTML, CSS, JavaScript, Vercel  
 
-## 🎨 Customization
+### [Bhutan Keeps – E-commerce Website](https://github.com/Kanishak-xd/Bhutan-Keeps)  
+Online store showcasing and selling authentic Bhutanese products.  
+*Tech:* HTML, CSS, JavaScript, GitHub Pages  
 
-1. **Colors**: Edit the Tailwind configuration file to change the color scheme
-2. **Content**: Update the content in index.html
-3. **3D Elements**: Modify three-background.js to change 3D elements
-4. **Animations**: Adjust GSAP animations in main.js
+---
 
-## 📱 Responsive Design
+## 📂 How to View My Work  
+All projects above are live — just click the links, explore, and try them out on both desktop and mobile.  
 
-- Mobile-first approach
-- Breakpoints:
-  - Mobile: < 768px
-  - Tablet: 768px - 1024px
-  - Desktop: > 1024px
+---
 
-## ⚡ Performance
+## 📬 Let’s Connect  
+📧 Email: ktyangden@example.com  
+🌐 Portfolio: [your-portfolio-link](#)  
+💼 LinkedIn: [linkedin.com/in/username](#)  
 
-- Optimized images
-- Lazy loading
-- Minified assets
-- Efficient animations
+---
 
-## 🔧 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## 📄 License
-
-MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-## 💫 Acknowledgments
-M7md.Js
-- Website: [m7mjs.pages.dev](https://m7mjs.pages.dev/)
-- GitHub: [@M7mdJs](https://github.com/M7mdJs)
-- Discord: [_9z.](https://discord.com/users/1091118468155314306)
-
+💡 *This portfolio is a work-in-progress (because learning never stops).*  
