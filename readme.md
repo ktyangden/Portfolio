@@ -1,4 +1,4 @@
-# 🌏 Karma T – UI/UX Designer & Frontend Developer  
+# 🌏 Karma T – Doing Something  
 
 Hi there! 👋 I’m Karma — a designer/developer from the mountains of Bhutan.  
 I blend **clean design** with **clean code** to craft experiences that feel as good as they look.  
